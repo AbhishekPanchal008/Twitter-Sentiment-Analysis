@@ -10,12 +10,8 @@ The project also includes an interactive **Streamlit web application (SentiScope
 
 ---
 
-# 🚀 Live Demo
-
-**Streamlit Web Application**
-
-> *(https://sentiscopeai.streamlit.app/)*
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge&logo=streamlit)](https://sentiscopeai.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/AbhishekPanchal008/Twitter-Sentiment-Analysis)
 ---
 
 # 📊 Dataset
