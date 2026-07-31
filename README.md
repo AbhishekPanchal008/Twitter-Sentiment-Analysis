@@ -14,13 +14,7 @@ The project also includes an interactive **Streamlit web application (SentiScope
 
 **Streamlit Web Application**
 
-> *(Add your deployed Streamlit URL here)*
-
-Example:
-
-```
-https://your-streamlit-app.streamlit.app
-```
+> *(https://sentiscopeai.streamlit.app/))*
 
 ---
 
