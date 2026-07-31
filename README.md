@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="images/banner.png" alt="Twitter Sentiment Analysis Banner" width="100%">
+</p>
+
+<h1 align="center">🐦 Twitter Sentiment Analysis using Deep Learning (LSTM)</h1>
+
+<p align="center">
+  AI-powered Twitter sentiment classification using NLP, Bidirectional LSTM, and Streamlit.
+</p>
+
 # 🐦 Twitter Sentiment Analysis using Deep Learning and LSTM
 
 ## 📝 Description
