@@ -79,32 +79,6 @@ The dataset contains airline-related tweets collected from Twitter and manually 
 
 ---
 
-# 🏗 Project Structure
-
-```
-Twitter-Sentiment-Analysis/
-│
-├── dataset/
-│
-├── images/
-│
-├── models/
-│   ├── lstm_model.keras
-│   ├── tokenizer.pkl
-│
-├── notebooks/
-│   ├── 01_Preprocessing_and_EDA.ipynb
-│   ├── 02_Deep_Learning_LSTM.ipynb
-│
-├── processed_data/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-```
-
----
-
 # ⚙️ Model Architecture
 
 ```
