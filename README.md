@@ -14,7 +14,7 @@ The project also includes an interactive **Streamlit web application (SentiScope
 
 **Streamlit Web Application**
 
-> *(https://sentiscopeai.streamlit.app/))*
+> *(https://sentiscopeai.streamlit.app/)*
 
 ---
 
