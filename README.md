@@ -265,10 +265,10 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Development Team
 
-**Abhishek Panchal**
-**Atharva Patil**
-**Sumit Biradar**
-**Sarthak Sasane**
+- **Abhishek Panchal**<br>
+- **Atharva Patil**<br>
+- **Sumit Biradar**<br>
+- **Sarthak Sasane**
 
 Artificial Intelligence Interns
 
