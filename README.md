@@ -117,95 +117,88 @@ Softmax Output Layer
 
 ## 🏠 Dashboard
 
-> Add:
-
-```
-images/dashboard_home.png
-```
+<p align="center">
+  <img src="images/dashboard_home.png" width="900">
+</p>
 
 ---
 
-## ✍ Analyze Tweet
+## ✍️ Analyze Tweet
 
-> Add:
-
-```
-images/prediction_page.png
-```
+<p align="center">
+  <img src="images/prediction_page.png" width="900">
+</p>
 
 ---
 
 ## 📊 Prediction Analytics
 
-> Add:
-
-```
-images/probability_chart.png
-```
+<p align="center">
+  <img src="images/probability_chart.png" width="900">
+</p>
 
 ---
 
 ## 📈 Sentiment Distribution
 
-> Add:
-
-```
-images/sentiment_distribution.png
-```
+<p align="center">
+  <img src="images/sentiment_distribution.png" width="900">
+</p>
 
 ---
 
 ## ☁️ Word Clouds
 
-Positive
+### Positive
 
-```
-images/positive_wordcloud.png
-```
+<p align="center">
+  <img src="images/positive_wordcloud.png" width="900">
+</p>
 
-Negative
+### Negative
 
-```
-images/negative_wordcloud.png
-```
+<p align="center">
+  <img src="images/negative_wordcloud.png" width="900">
+</p>
 
 ---
 
 ## 📉 Confusion Matrix
 
-Logistic Regression
+### Logistic Regression
 
-```
-images/logistic_regression_confusion_matrix.png
-```
+<p align="center">
+  <img src="images/logistic_regression_confusion_matrix.png" width="900">
+</p>
 
-Naive Bayes
+### Naive Bayes
 
-```
-images/naive_bayes_confusion_matrix.png
-```
+<p align="center">
+  <img src="images/naive_bayes_confusion_matrix.png" width="900">
+</p>
 
-LSTM
+### LSTM
 
-```
-images/lstm_confusion_matrix.png
-```
+<p align="center">
+  <img src="images/lstm_confusion_matrix.png" width="900">
+</p>
 
 ---
 
 ## 📊 Training Curves
 
-Accuracy
+### Accuracy
 
-```
-images/lstm_accuracy.png
-```
+<p align="center">
+  <img src="images/lstm_accuracy.png" width="900">
+</p>
 
-Loss
+### Loss
 
-```
-images/lstm_loss.png
-```
+<p align="center">
+  <img src="images/lstm_loss.png" width="900">
+</p>
+
 
 ---
 
